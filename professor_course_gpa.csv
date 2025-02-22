@@ -1,0 +1,413 @@
+Course,Course GPA,Professor,Professor Average GPA
+Advanced Computer Networks (740),3.85,PAUL BARFORD,3.76
+Advanced Computer Networks (740),3.85,MING LIU,3.92
+Advanced Computer Networks (740),3.85,SRINIVASA AKELLA,3.86
+Advanced Computer Networks (740),3.85,CRISTIAN ESTAN,4.00
+Advanced Linear Programming (526),2.67,MICHAEL FERRIS,4.00
+Advanced Linear Programming (526),2.67,XIAOMIN ZHANG,4.00
+Advanced Linear Programming (526),2.67,THOMAS RUTHERFORD,1.33
+Computer Animation (777),3.53,MICHAEL GLEICHER,3.53
+Computer System Performance (737),3.42,MIRON LIVNY,3.42
+Computers in Medicine (463),3.69,AMIT NIMUNKAR,3.74
+Computers in Medicine (463),3.69,WILLIS TOMPKINS,3.68
+Computers in Medicine (463),3.69,BRODY HARSTAD,3.45
+Computers in Medicine (463),3.69,JONATHAN BARAN,3.56
+Contest-Level Programming (578),3.68,DIETER VAN MELKEBEEK,3.68
+Data Programming I - Research (319),3.94,LOUIS OLIPHANT,3.87
+Data Programming I - Research (319),3.94,MICHAEL DOESCHER,3.93
+Data Programming I - Research (319),3.94,TUNAN WANG,3.94
+Data Programming I - Research (319),3.94,KINCANNON WILSON,3.87
+Data Programming I - Research (319),3.94,DAVID PARRA,3.87
+Data Programming I - Research (319),3.94,YUHENG WU,3.86
+Data Programming I - Research (319),3.94,ABHINAV NARAYAN HARISH,3.87
+Data Programming I - Research (319),3.94,MUHAMMAD MUSA,4.00
+Data Programming I - Research (319),3.94,SATYA SAI SRINATH NAMBURI,4.00
+Data Programming I - Research (319),3.94,ABOLI VIJAYANAND PAI,3.92
+Data Programming I - Research (319),3.94,FAHAD TOUSEEF,3.86
+Data Programming I - Research (319),3.94,SAMUEL GUO,3.86
+Data Programming I - Research (319),3.94,YUNFU DENG,3.78
+Data Programming I - Research (319),3.94,TAKIS CHYTAS,3.86
+Data Programming I - Research (319),3.94,LUKE DOTSON,3.71
+Data Programming I - Research (319),3.94,CATHY CAO,3.86
+Data Programming I - Research (319),3.94,GURMAIL SINGH,3.97
+Data Programming I - Research (319),3.94,SHUTONG WU,4.00
+Data Programming I - Research (319),3.94,COLE NELSON,3.96
+Data Programming I - Research (319),3.94,ASHWIN MARAN,4.00
+Data Programming I - Research (319),3.94,DIVYAM ANSHUMAAN,4.00
+Data Programming I - Research (319),3.94,RITHIK JAIN,3.96
+Data Programming I - Research (319),3.94,TIMOTHY OSSOWSKI,4.00
+Data Programming I - Research (319),3.94,ABINAYAA KANIMOZHI CHANDRASEKAR,4.00
+Data Programming I - Research (319),3.94,BRANDON TRAN,4.00
+Data Programming I - Research (319),3.94,MUHAMMAD HARIS NOOR,4.00
+Data Programming I - Research (319),3.94,JUSTIN KIEFEL,4.00
+Data Programming I - Research (319),3.94,IFFAT NAFISA,4.00
+Data Programming I - Research (319),3.94,DEEPTI RAJAGOPAL,4.00
+Data Programming I - Research (319),3.94,ISHA PADMANABAN,4.00
+Data Programming I - Research (319),3.94,ISHAAN KOHLI,4.00
+Data Programming I - Research (319),3.94,SHREY SHAH,4.00
+Data Programming I - Research (319),3.94,MEENAKSHI SYAMKUMAR,3.96
+Data Programming I - Research (319),3.94,ANDREW KUEMMEL,4.00
+Data Sci Programming I (220),3.48,LOUIS OLIPHANT,3.33
+Data Sci Programming I (220),3.48,MICHAEL DOESCHER,3.39
+Data Sci Programming I (220),3.48,TUNAN WANG,3.23
+Data Sci Programming I (220),3.48,KINCANNON WILSON,3.23
+Data Sci Programming I (220),3.48,DAVID PARRA,3.17
+Data Sci Programming I (220),3.48,YUHENG WU,3.17
+Data Sci Programming I (220),3.48,ABHINAV NARAYAN HARISH,3.17
+Data Sci Programming I (220),3.48,MUHAMMAD MUSA,3.24
+Data Sci Programming I (220),3.48,SATYA SAI SRINATH NAMBURI,3.34
+Data Sci Programming I (220),3.48,ABOLI VIJAYANAND PAI,3.18
+Data Sci Programming I (220),3.48,YUSEN LIU,3.14
+Data Sci Programming I (220),3.48,EDWARD HALIM,3.14
+Data Sci Programming I (220),3.48,FAHAD TOUSEEF,3.18
+Data Sci Programming I (220),3.48,SAMUEL GUO,3.18
+Data Sci Programming I (220),3.48,YUNFU DENG,3.18
+Data Sci Programming I (220),3.48,TAKIS CHYTAS,3.25
+Data Sci Programming I (220),3.48,LUKE DOTSON,3.17
+Data Sci Programming I (220),3.48,CATHY CAO,3.25
+Data Sci Programming I (220),3.48,GURMAIL SINGH,3.33
+Data Sci Programming I (220),3.48,SHUTONG WU,3.31
+Data Sci Programming I (220),3.48,COLE NELSON,3.32
+Data Sci Programming I (220),3.48,ASHWIN MARAN,3.41
+Data Sci Programming I (220),3.48,DIVYAM ANSHUMAAN,3.31
+Data Sci Programming I (220),3.48,RITHIK JAIN,3.27
+Data Sci Programming I (220),3.48,JOHN BALIS,3.33
+Data Sci Programming I (220),3.48,TIMOTHY OSSOWSKI,3.57
+Data Sci Programming I (220),3.48,ABINAYAA KANIMOZHI CHANDRASEKAR,3.57
+Data Sci Programming I (220),3.48,BRANDON TRAN,3.57
+Data Sci Programming I (220),3.48,MUHAMMAD HARIS NOOR,3.42
+Data Sci Programming I (220),3.48,JUSTIN KIEFEL,3.42
+Data Sci Programming I (220),3.48,IFFAT NAFISA,3.42
+Data Sci Programming I (220),3.48,COLE DIIANNI,3.34
+Data Sci Programming I (220),3.48,ANIRUDH SUNDARA RAJAN,3.34
+Data Sci Programming I (220),3.48,HAKAN DINGENC,3.34
+Data Sci Programming I (220),3.48,KARTHIK SURESH,3.34
+Data Sci Programming I (220),3.48,DEEPTI RAJAGOPAL,3.25
+Data Sci Programming I (220),3.48,ISHA PADMANABAN,3.25
+Data Sci Programming I (220),3.48,ISHAAN KOHLI,3.25
+Data Sci Programming I (220),3.48,SHREY SHAH,3.25
+Data Sci Programming I (220),3.48,MEENAKSHI SYAMKUMAR,3.66
+Data Sci Programming I (220),3.48,ANDREW KUEMMEL,3.55
+Data Sci Programming I (220),3.48,PEYMAN MORTEZA,3.63
+Data Sci Programming I (220),3.48,YUCHEN ZENG,3.82
+Data Sci Programming I (220),3.48,CHAO-HSIANG CHUNG,3.82
+Data Sci Programming I (220),3.48,BHAVYA GOYAL,3.82
+Data Sci Programming I (220),3.48,NITHIN VENKATESH,3.83
+Data Sci Programming I (220),3.48,DEEPAN DAS,3.83
+Data Sci Programming I (220),3.48,SOURAV PAL,3.83
+Data Sci Programming I (220),3.48,ZHENMEI SHI,3.75
+Data Sci Programming I (220),3.48,YELUN BAO,3.75
+Data Sci Programming II (320),3.56,TUNAN WANG,3.79
+Data Sci Programming II (320),3.56,MUHAMMAD MUSA,3.79
+Data Sci Programming II (320),3.56,EDWARD HALIM,3.79
+Data Sci Programming II (320),3.56,LUKE DOTSON,3.49
+Data Sci Programming II (320),3.56,GURMAIL SINGH,3.83
+Data Sci Programming II (320),3.56,KARTHIK SURESH,3.49
+Data Sci Programming II (320),3.56,MEENAKSHI SYAMKUMAR,3.31
+Data Sci Programming II (320),3.56,ANDREW KUEMMEL,3.31
+Data Sci Programming II (320),3.56,TYLER CARAZA-HARTER,3.40
+Data Sci Programming II (320),3.56,GIANNIS IAKOVIDIS,3.79
+Data Sci Programming II (320),3.56,ZHEYANG XIONG,3.79
+Data Sci Programming II (320),3.56,ALEX PESECKIS,3.79
+Data Sci Programming II (320),3.56,JIANGYI LIU,3.79
+Data Sci Programming II (320),3.56,FANCHAO CHEN,3.79
+Data Sci Programming II (320),3.56,BENJAMIN JACOBSEN,3.79
+Data Sci Programming II (320),3.56,RAHUL CHUNDURU,3.70
+Data Sci Programming II (320),3.56,JINLANG WANG,3.70
+Data Sci Programming II (320),3.56,WILLIAM CONG,3.89
+Data Sci Programming II (320),3.56,BOWMAN BROWN,3.89
+Data Sci Programming II (320),3.56,ALEXANDER CLINTON,3.85
+Data Sci Programming II (320),3.56,ELLIOT PICKENS,3.68
+Data Sci Programming II (320),3.56,HAFEEZ ALI ANEES ALI,3.85
+Data Sci Programming II (320),3.56,YIYIN SHEN,3.45
+Data Sci Programming II (320),3.56,YOUNG WU,3.55
+Data Sci Programming II (320),3.56,DANIEL MCNEELA,3.49
+Data Sci Programming II (320),3.56,MARIO IVAN JAEN MARQUEZ,3.44
+Data Sci Programming II (320),3.56,LEITIAN TAO,3.49
+Data Sci Programming II (320),3.56,YIBING WEI,3.03
+Data Sci Programming II (320),3.56,POULAMI PAUL,3.03
+Data Sci Programming II (320),3.56,ANA KLABJAN,3.38
+Data Sci Programming II (320),3.56,HAOTIAN MA,3.38
+Data Sci Programming II (320),3.56,SACHA JUNGERMAN,3.86
+Data Sci Programming II (320),3.56,JOSEPH MOHR,3.86
+Data Sci Programming II (320),3.56,SHRI SHRUTHI SHRIDHAR,3.86
+Design Programming (321),3.99,UCHITA VAID,3.99
+Digital Computer Projects in Control and Instrumentation (468),3.8,MARK ALLIE,3.81
+Geospatial Web and Mobile Programming (576),3.88,MOULAY SOUNNY-SLITINE,3.87
+Geospatial Web and Mobile Programming (576),3.88,RANDY SINCOULAR,3.87
+Geospatial Web and Mobile Programming (576),3.88,HAO FU,3.97
+Geospatial Web and Mobile Programming (576),3.88,CHRISTOPHER SCHEELE,3.96
+Geospatial Web and Mobile Programming (576),3.88,GUIMING ZHANG,4.00
+Geospatial Web and Mobile Programming (576),3.88,QUNYING HUANG,3.82
+Integer Programming (720),3.69,JAMES LUEDTKE,3.62
+Integer Programming (720),3.69,ALBERTO DEL PIA,3.82
+Integer Programming (720),3.69,YONGJIA SONG,3.80
+Integer Programming (720),3.69,ANDREW J MILLER,4.00
+Introduction to Computer Architecture (552),3.39,JUNXUAN LIAO,3.67
+Introduction to Computer Architecture (552),3.39,MANU MAHESHWARI,3.67
+Introduction to Computer Architecture (552),3.39,SWAMIT TANNU,3.51
+Introduction to Computer Architecture (552),3.39,BOONE SEVERSON,3.56
+Introduction to Computer Architecture (552),3.39,SETAREH BEHROOZI,3.61
+Introduction to Computer Architecture (552),3.39,JOSHUA SANMIGUEL,3.55
+Introduction to Computer Architecture (552),3.39,TANMAY ANAND,3.53
+Introduction to Computer Architecture (552),3.39,IAN MCDOUGALL,3.53
+Introduction to Computer Architecture (552),3.39,MATT SINCLAIR,3.56
+Introduction to Computer Architecture (552),3.39,RUTWIK JAIN,3.38
+Introduction to Computer Architecture (552),3.39,MOHIL PATEL,3.38
+Introduction to Computer Architecture (552),3.39,KARTHIKEYAN SANKARALINGAM,3.48
+Introduction to Computer Architecture (552),3.39,KYLE MAY,3.77
+Introduction to Computer Architecture (552),3.39,RAMI DAHMAN,3.77
+Introduction to Computer Architecture (552),3.39,MIKKO LIPASTI,3.75
+Introduction to Computer Architecture (552),3.39,YU HU,2.94
+Introduction to Computer Architecture (552),3.39,PARAMESWARAN RAMANATHAN,3.06
+Introduction to Computer Architecture (552),3.39,ERIC HOFFMAN,3.50
+Introduction to Computer Architecture (552),3.39,DAVID A. WOOD,3.19
+Introduction to Computer Architecture (552),3.39,VISHAL KIRTI,3.55
+Introduction to Computer Architecture (552),3.39,MARK HILL,3.39
+Introduction to Cryptography (435),3.05,RITHIK JAIN,3.05
+Introduction to Cryptography (435),3.05,ABTIN AFSHAR SHANDI,3.33
+Introduction to Cryptography (435),3.05,RISHAB GOYAL,3.24
+Introduction to Cryptography (435),3.05,SAIKUMAR YADUGIRI,3.36
+Introduction to Cryptography (435),3.05,MIKHAIL IVANOV,3.26
+Introduction to Cryptography (435),3.05,FENG ZHU,2.74
+Introduction to Cryptography (435),3.05,SOMESH JHA,3.21
+Introduction to Cryptography (435),3.05,JIAQI CHENG,3.28
+Introduction to Cryptography (435),3.05,MATTHEW KINGSTON,3.17
+Introduction to Cryptography (435),3.05,DAVID ZIKEL,3.22
+Introduction to Cryptography (435),3.05,ROMIT KANKARIA,3.17
+Introduction to Cryptography (435),3.05,ERIC BACH,2.99
+Introduction to Cryptography (435),3.05,SHAMGAR GUREVICH,3.39
+Introduction to Cryptography (435),3.05,NILS PALUMBO,3.36
+Introduction to Cryptography (435),3.05,TIANHAO CHAI,3.36
+Introduction to Cryptography (435),3.05,ROCIL MACHADO,3.30
+Introduction to Cryptography (435),3.05,JIHYE CHOI,3.30
+Introduction to Cryptography (435),3.05,NICOLLAS MOCELIN SDROIEVSKI,3.30
+Introduction to Cryptography (435),3.05,EDWARD HANSON,3.28
+Introduction to Cryptography (435),3.05,ROBERT WALKER,3.15
+Introduction to Cryptography (435),3.05,NIGEL BOSTON,2.68
+Introduction to Cryptography (435),3.05,GREGORY SHINAULT,3.58
+Introduction to Cryptography (435),3.05,WOOYEONG JANG,2.95
+Introduction to Cryptography (435),3.05,SUBRAMANYA GAUTAM PRAKRIYA VENKATA,2.95
+Introduction to Cryptography (435),3.05,ANDREI CALDARARU,2.12
+Introduction to Cryptography (435),3.05,DONGNING WANG,3.41
+Introduction to Data Programming (301),3.28,TYLER CARAZA-HARTER,3.29
+Introduction to Data Programming (301),3.28,CAROLINE HARDIN,3.23
+Introduction to Data Programming (301),3.28,ADALBERT GERALD SOOSAI RAJ,3.38
+Introduction to Data Programming (301),3.28,LAURA LEGAULT,3.29
+Introduction to Data Programming (301),3.28,PAUL BARFORD,3.21
+Introduction to Data Programming (301),3.28,ALEXANDER BROOKS,2.88
+Introduction to Data Programming (301),3.28,GAUTAM UMESH SARGUR,2.80
+Introduction to Data Programming (301),3.28,ANUSHA DASARAKOTHAPALLI,2.80
+Introduction to Programming (302),2.87,LAURA LEGAULT,2.83
+Introduction to Programming (302),2.87,JAMES WILLIAMS,3.05
+Introduction to Programming (302),2.87,GARY DAHL,3.06
+Introduction to Programming (302),2.87,DEBRA DEPPELER,2.82
+Introduction to Programming (302),2.87,JOHN CULHANE,3.12
+Introduction to Programming (302),2.87,STEPHEN BROWN,2.97
+Introduction to Programming (302),2.87,MATTHEW BERNSTEIN,3.05
+Introduction to Programming (302),2.87,NIKOLAOS PAPPAS,2.50
+Introduction to Programming (302),2.87,MELISSA TRESS,3.00
+Introduction to Programming (302),2.87,ALISA MAAS,2.47
+Introduction to Programming (302),2.87,SHREEDHAR HARDIKAR,3.04
+Introduction to Programming (302),2.87,ROBERT ATLAS,2.73
+Introduction to Programming (302),2.87,ALICIA MAXWELL,2.74
+Introduction to Programming (302),2.87,SETH POLLEN,2.87
+Introduction to Programming (302),2.87,JOHN MILLER,2.71
+Introduction to Programming (302),2.87,JAMES SKRENTNY,2.82
+Introduction to Programming (302),2.87,DALIBOR ZELENY,2.98
+Introduction to Programming (302),2.87,NOAH LARSEN,2.77
+Introduction to Programming (302),2.87,DANIEL SZAFIR,2.93
+Introduction to Programming (302),2.87,PETER OHMANN,2.86
+Introduction to Programming (302),2.87,FINN KUUSISTO,2.86
+Introduction to Programming (302),2.87,GEORGE WANANT,2.71
+Introduction to Programming (302),2.87,ALEXANDER COBIAN,3.13
+Introduction to Programming (302),2.87,CADEN HOWELL,2.29
+Introduction to Programming (302),2.87,HOLLY ESQUIVEL,2.29
+Introduction to Programming (302),2.87,SEAN CROSBY,3.17
+Introduction to Programming (302),2.87,MARK CHAPMAN,3.14
+Introduction to Programming (302),2.87,BARIS AYDINLIOGLU,3.14
+Introduction to Programming (302),2.87,BECK HASTI,2.85
+Introduction to Programming (302),2.87,TIMOTHY CARL BAHLS,3.00
+Introduction to Programming (302),2.87,ROKAS VENCKEVICIUS,3.23
+Introduction to Programming (302),2.87,MICHAEL RAYMOND KOWALCZYK,3.16
+Introduction to Programming (302),2.87,ANDREW DOUGLAS WEINRICH,3.12
+Introduction to Programming (302),2.87,WILLIAM C. BENTON,3.00
+Introduction to Programming (302),2.87,MATTHEW ANDERSON,2.46
+Introduction to Programming (302),2.87,ANEESH PADMAKAR KARVE,3.06
+Linear Programming Methods (525),2.94,ROBERT R MEYER,3.17
+Linear Programming Methods (525),2.94,ALBERTO DEL PIA,2.82
+Linear Programming Methods (525),2.94,CARLA MICHINI,3.18
+Linear Programming Methods (525),2.94,ZACHARY ZHOU,3.10
+Linear Programming Methods (525),2.94,BAINIAN HAO,3.20
+Linear Programming Methods (525),2.94,HUILIN HU,2.94
+Linear Programming Methods (525),2.94,STEPHEN WRIGHT,2.82
+Linear Programming Methods (525),2.94,JUN YIN,3.07
+Linear Programming Methods (525),2.94,MICHAEL FERRIS,2.70
+Linear Programming Methods (525),2.94,SHI JIN,3.06
+Linear Programming Methods (525),2.94,JESSE THOMAS HOLZER,3.56
+Linear Programming Methods (525),2.94,BENJAMIN RECHT,3.11
+Principles of Programming Languages (704),3.89,ETHAN CECCHETTI,4.00
+Principles of Programming Languages (704),3.89,AWS ALBARGHOUTHI,3.95
+Principles of Programming Languages (704),3.89,SUSAN HORWITZ,3.94
+Principles of Programming Languages (704),3.89,THOMAS REPS,3.74
+Programming I (200),3.24,ANDREW KUEMMEL,3.59
+Programming I (200),3.24,JAMES WILLIAMS,3.28
+Programming I (200),3.24,MARC RENAULT,3.09
+Programming I (200),3.24,RUIHAN TONG,3.52
+Programming I (200),3.24,MARK POWERS,3.52
+Programming I (200),3.24,YANAN WANG,3.52
+Programming I (200),3.24,RUI HUANG,3.52
+Programming I (200),3.24,TIMOTHY WILDER,3.71
+Programming I (200),3.24,ELLIOTT JANSSEN SALDIVAR,3.71
+Programming I (200),3.24,AMOS KENDALL,3.71
+Programming II (300),3.32,RITHIK JAIN,3.41
+Programming II (300),3.32,ABINAYAA KANIMOZHI CHANDRASEKAR,3.42
+Programming II (300),3.32,LAURA LEGAULT,3.47
+Programming II (300),3.32,ALEXANDER BROOKS,2.83
+Programming II (300),3.32,GIANNIS IAKOVIDIS,3.06
+Programming II (300),3.32,WILLIAM CONG,3.43
+Programming II (300),3.32,BOWMAN BROWN,3.44
+Programming II (300),3.32,RAHUL CHOUDHARY,3.26
+Programming II (300),3.32,PROTEET PAUL,3.31
+Programming II (300),3.32,JING LAN,3.31
+Programming II (300),3.32,MICHELLE JENSEN,3.38
+Programming II (300),3.32,YIHENG SU,3.28
+Programming II (300),3.32,YUHAO LIU,3.28
+Programming II (300),3.32,WILLIAM SUN,3.15
+Programming II (300),3.32,YIKAI ZHANG,3.17
+Programming II (300),3.32,XINYU ZHOU,3.17
+Programming II (300),3.32,SHUIBAI ZHANG,3.17
+Programming II (300),3.32,ADITYA KOLSUR,3.40
+Programming II (300),3.32,BLERINA GKOTSE,3.29
+Programming II (300),3.32,RIYAD HASSEN,3.40
+Programming II (300),3.32,VAISHNAVI BHARGAVA,3.24
+Programming II (300),3.32,ZHIQI GAO,3.25
+Programming II (300),3.32,ANGUS HE,3.40
+Programming II (300),3.32,MOUNA AYARI BEN HADJ KACEM,3.25
+Programming II (300),3.32,ROBERT KLOCK,3.46
+Programming II (300),3.32,DANYAL MAQBOOL,3.51
+Programming II (300),3.32,YUYUAN KANG,3.06
+Programming II (300),3.32,ASHLEY SAMUELSON,3.45
+Programming II (300),3.32,POOJA YADAV,2.98
+Programming II (300),3.32,AYDAN BAILEY,2.98
+Programming II (300),3.32,KENDALL PARK,3.47
+Programming II (300),3.32,ZHIWEI SONG,3.45
+Programming II (300),3.32,YIWEI ZHANG,3.47
+Programming II (300),3.32,PUCHENG XIONG,3.71
+Programming II (300),3.32,SHENGYUAN YANG,3.71
+Programming II (300),3.32,GOWTHAM RAMESH,3.66
+Programming II (300),3.32,MARK MANSI,3.82
+Programming II (300),3.32,AKHIL POLAMARASETTY,3.49
+Programming II (300),3.32,MOHIT LOGANATHAN,3.53
+Programming II (300),3.32,PREETI NAYAK,3.44
+Programming II (300),3.32,PRIYAVARSHINI MURUGAN,3.53
+Programming II (300),3.32,DEBARSHI DEKA,3.56
+Programming II (300),3.32,CHANGHO SHIN,3.40
+Programming II (300),3.32,SNEHAL RAJESH WADHWANI,3.46
+Programming II (300),3.32,KUSHAGRA KAPIL,3.52
+Programming II (300),3.32,AISHA MOHAMED,3.53
+Programming II (300),3.32,MUHAMMAD SALMAN MUNAF,3.58
+Programming II (300),3.32,MINGRUI LIU,3.53
+Programming II (300),3.32,JEFF NYHOFF,3.33
+Programming II (300),3.32,ZEYI HUANG,3.73
+Programming II (300),3.32,ARAVIND VARATHAN,3.50
+Programming II (300),3.32,RAJESH SHASHI KUMAR,3.50
+Programming II (300),3.32,HARSH SAHU,3.50
+Programming II (300),3.32,EVANGELIA GERGATSOULI,3.44
+Programming II (300),3.32,ABISHEK KUMAR,3.39
+Programming II (300),3.32,HIMANSHU SAGAR,3.11
+Programming II (300),3.32,MAKESH NARSIMHAN SREEDHAR,3.13
+Programming II (300),3.32,HANG YIN,3.18
+Programming II (300),3.32,RAJAN DALAL,3.71
+Programming II (300),3.32,SULONG ZHOU,3.71
+Programming II (300),3.32,JUAN RIOS,3.71
+Programming II (300),3.32,GARY DAHL,3.21
+Programming II (300),3.32,SRILAKSHMI BHARADWAJ,3.45
+Programming II (300),3.32,ADITYA BARVE,3.45
+Programming II (300),3.32,HARIT VISHWAKARMA,3.45
+Programming II (300),3.32,SHUBHAM BHARTI,3.45
+Programming II (300),3.32,MENGXIAO ZHANG,3.30
+Programming II (300),3.32,SRI HARSHAL PARIMI,3.30
+Programming II (300),3.32,CHETNA SUREKA,3.24
+Programming II (300),3.32,VANSHIKA BAONI,3.24
+Programming II (300),3.32,ASHWIN KESHAV TAYADE,3.24
+Programming II (300),3.32,ADARSH MITTAL,3.24
+Programming III (400),3.34,ANDREW KUEMMEL,3.59
+Programming III (400),3.34,YELUN BAO,3.29
+Programming III (400),3.34,ZHEYANG XIONG,3.19
+Programming III (400),3.34,ALEX PESECKIS,3.21
+Programming III (400),3.34,JIANGYI LIU,3.26
+Programming III (400),3.34,HAFEEZ ALI ANEES ALI,3.27
+Programming III (400),3.34,MARIO IVAN JAEN MARQUEZ,3.21
+Programming III (400),3.34,RAHUL CHOUDHARY,3.29
+Programming III (400),3.34,VAISHNAVI BHARGAVA,3.19
+Programming III (400),3.34,AYDAN BAILEY,3.21
+Programming III (400),3.34,PUCHENG XIONG,3.20
+Programming III (400),3.34,GOWTHAM RAMESH,3.22
+Programming III (400),3.34,MOHIT LOGANATHAN,3.40
+Programming III (400),3.34,AISHA MOHAMED,3.30
+Programming III (400),3.34,GARY DAHL,3.31
+Programming III (400),3.34,MATT SCHWENNESEN,3.21
+Programming III (400),3.34,CONNOR BAILEY,3.16
+Programming III (400),3.34,RISHABH SHARMA,3.14
+Programming III (400),3.34,HONGYI LIU,3.14
+Programming III (400),3.34,BENJAMIN GUSTAFSON,3.24
+Programming III (400),3.34,BERYL JIANG,3.21
+Programming III (400),3.34,JAEHYUN LEE,3.21
+Programming III (400),3.34,FLORIAN HEIMERL,3.29
+Programming III (400),3.34,SARTHAK CHOUDHARY,3.19
+Programming III (400),3.34,MANAS TRIVEDI,3.22
+Programming III (400),3.34,THOMAS ZENG,3.20
+Programming III (400),3.34,CASEY FORD,3.23
+Programming III (400),3.34,CALLIE KIM,3.38
+Programming III (400),3.34,YUYE JIANG,3.26
+Programming III (400),3.34,KEREN CHEN,3.26
+Programming III (400),3.34,HAOYUE BAI,3.26
+Programming III (400),3.34,LILLY PERALTA,3.22
+Programming III (400),3.34,ATHANASIOS PITTAS,3.22
+Programming III (400),3.34,ZHUOMING LIU,3.25
+Programming III (400),3.34,NICHOLAS RUSSELL,3.24
+Programming III (400),3.34,BINWEI YAO,3.24
+Programming III (400),3.34,LAKSHIKA RATHI,3.25
+Programming III (400),3.34,GRANT WALDOW,3.19
+Programming III (400),3.34,ANVAY GROVER,3.21
+Programming III (400),3.34,ROBERT NAGEL,3.21
+Programming III (400),3.34,KEVIN KRISTENSEN,3.76
+Programming III (400),3.34,LAIK RUETTEN,3.27
+Programming III (400),3.34,DANIEL FINER,3.25
+Programming III (400),3.34,ILAY RAZ,3.32
+Programming III (400),3.34,KARAN GROVER,3.25
+Programming III (400),3.34,APRIL ROSZKOWSKI,3.25
+Programming III (400),3.34,SAMUEL CHURCH,3.23
+Programming III (400),3.34,JIAHUI ZHANG,3.27
+Programming III (400),3.34,NAMAN GUPTA,3.27
+Programming III (400),3.34,RACHIT TIBREWAL,3.27
+Programming III (400),3.34,SURABHI GUPTA,3.39
+Programming III (400),3.34,ABHINAV AGARWAL,3.23
+Programming III (400),3.34,SUJITHA PERUMAL,3.35
+Programming III (400),3.34,MINGHAO YAN,3.29
+Programming III (400),3.34,JAMES SORENSON,3.54
+Programming III (400),3.34,BRIANNA COCHRAN,3.34
+Programming III (400),3.34,CAMERON RUGGLES,3.19
+Programming III (400),3.34,TINGJIA CAO,3.40
+Programming III (400),3.34,MU CAI,3.21
+Programming III (400),3.34,EVAN WIREMAN,3.28
+Programming III (400),3.34,DEBRA DEPPELER,3.41
+Programming III (400),3.34,EDDIE BARTON,3.67
+Programming III (400),3.34,. AKSHAT,3.66
+Programming III (400),3.34,S M JAGLUL HASAN,3.66
+Programming III (400),3.34,SANGEETHA GRAMA SRINIVASAN,3.66
+Programming III (400),3.34,SONGWONG TASNEEYAPANT,3.66
+Programming III (400),3.34,MADAN RAJ HARI,3.66
+Programming III (400),3.34,AKSHAY MISHRA,3.66
+Programming III (400),3.34,SIDDHARTH MOHAN,3.61
+Programming III (400),3.34,SAPAN GUPTA,3.61
+Programming III (400),3.34,SRIVATSAN RAMESH,3.61
+Programming III (400),3.34,SURYADEV SAHADEVAN RAJESH,3.61
+Programming III (400),3.34,YANG GUO,3.61
+Stochastic Programming (719),3.92,JAMES LUEDTKE,3.92
+Stochastic Programming (719),3.92,RUI CHEN,3.73
+Stochastic Programming (719),3.92,JEFFREY LINDEROTH,3.91
+Stochastic Programming (719),3.92,ROBERT R MEYER,3.92
+Web Programming (369),3.83,GAUTAM UMESH SARGUR,3.83
+Web Programming (369),3.83,STEPHEN ANDERSON,3.83

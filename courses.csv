@@ -1,0 +1,126 @@
+Subject,Course Name,Course Number,Total Class GPA,Professor Rating
+Computer Science,Introduction to Computer Architecture,552,3.39,3.89
+Computer Science,Machine Organization and Programming,354,3.09,3.65
+Computer Science,Introduction to Cryptography,435,3.05,3.85
+Computer Science,Computer Vision,766,3.93,3.97
+Computer Science,Computer-Aided Design for VLSI,756,3.85,3.97
+Computer Science,Theory and Applications of Pattern Recognition,532,3.65,3.75
+Computer Science,Introduction to Computer Engineering,252,3.32,3.81
+Computer Science,Image Processing,533,3.64,3.55
+Computer Science,Machine Learning,760,3.79,3.95
+Computer Science,Mobile and Wireless Networking,707,3.85,3.69
+Computer Science,Real-time Computing Systems,750,3.68,3.21
+Computer Science,Digital System Fundamentals,352,3.05,3.88
+Computer Science,Software Engineering,506,3.5,3.76
+Computer Science,Human-Computer Interaction,770,3.9,3.21
+Computer Science,VLSI Systems Design,755,3.74,3.65
+Computer Science,Advanced Computer Architecture I,752,3.65,3.75
+Computer Science,Adv Cmpr Sec & Prvcy,782,4.0,3.31
+Computer Science,Theoretical Foundations of Machine Learning,861,3.93,3.77
+Computer Science,Mathematical Foundations of Machine Learning,761,3.7,3.31
+Computer Science,Advanced Computer Architecture II,757,3.77,3.89
+Computer Science,Introduction to Artificial Neural Network and Fuzzy Systems,539,3.26,3.54
+Computer Science,Introduction to Optimization,524,3.39,3.32
+Computer Science,Introduction to Charged Particle Accelerators,561,3.76,3.01
+Computer Science,High Performance Computing for Applications in Engineering,759,3.97,3.57
+Computer Science,Computer Animation,777,3.53,3.46
+Computer Engineering,Graduate Cooperative Education Program,702,,3.44
+Computer Engineering,Cooperative Education Program,1,3.97,3.61
+Computer Engineering,Composite Materials,508,3.82,3.65
+Computer Engineering,Materials for Constructed Facilities,395,3.29,3.59
+Computer Engineering,Computers in Medicine,463,3.69,3.63
+Computer Engineering,Turbulent Heat and Momentum Transfer,775,3.86,3.53
+Computer Engineering,Special Topics in Electrical and Computer Engineering,601,3.86,3.47
+Computer Engineering,Introduction to Computer Engineering,252,3.32,3.44
+Computer Engineering,Theory and Applications of Pattern Recognition,532,3.65,3.52
+Computer Engineering,High Performance Computing for Applications in Engineering,759,3.97,3.68
+Computer Engineering,Introduction to Computer Architecture,552,3.39,3.83
+Computer Engineering,Projects in Computers in Medicine,763,4.0,3.5
+Computer Engineering,Special Topics in Electrical and Computer Engineering,379,3.86,3.44
+Computer Engineering,Digital Computer Projects in Control and Instrumentation,468,3.8,3.52
+Computer Engineering,Software Engineering,506,3.5,3.7
+Computer Engineering,Introduction to Cryptography,435,3.05,3.92
+Computer Engineering,Introduction to Optimization,524,3.39,3.75
+Computer Engineering,Introduction to Artificial Neural Network and Fuzzy Systems,539,3.26,3.86
+Computer Engineering,Introduction to Charged Particle Accelerators,561,3.76,3.32
+Computer Engineering,Advanced Computer Architecture I,752,3.65,3.03
+Computer Engineering,Computer-Aided Design for VLSI,756,3.85,3.82
+Computer Engineering,Machine Organization and Programming,354,3.09,3.69
+Computer Engineering,Computer Vision,766,3.93,3.57
+Computer Engineering,Data Science & Engineering,204,3.87,3.73
+Computer Engineering,Processing of Electronic Materials,544,2.67,3.56
+Data Science,Intro to Data Modeling II,340,3.12,3.55
+Data Science,Data Science Modeling I,240,3.52,3.67
+Data Science,Foundations of Data Management,784,3.84,3.51
+Data Science,Data Sci Programming I,220,3.48,3.66
+Data Science,Data Sci Programming II,320,3.56,3.24
+Data Science,Stat Methods for Data Sci,613,4.0,3.29
+Data Science,Prog in Human Behav Data Sci,750,3.92,3.24
+Data Science,Environmental Data Science,458,,3.74
+Data Science,Internship Class CS & Data Sci,403,3.92,3.76
+Data Science,Data Programming I - Research,319,3.94,3.91
+Data Science,Big Data Systems,744,3.97,3.81
+Data Science,Data Science Computing Project,605,3.94,3.37
+Data Science,Introduction to Data Structures,367,2.98,3.82
+Data Science,Data Science with R,433,3.82,3.53
+Data Science,Intro Big Data Systems,544,3.62,3.31
+Data Science,Math Methods in Data Science,535,3.51,3.88
+Data Science,Graphs & Networks in Data Sci,444,3.83,3.51
+Data Science,Data Science for Life Science,380,3.56,3.23
+Data Science,Intro Data Analyses Drug Dev,756,3.86,3.46
+Data Science,App Mach Learning Beh Data Sci,752,3.63,3.48
+Data Science,Biomed Data Sci Prof Skills 1,883,4.0,3.94
+Data Science,Data Visualization,765,3.7,3.62
+Data Science,Introduction to Data Programming,301,3.28,3.85
+Data Science,Security Privacy for Data Sci,763,3.78,3.48
+Data Science,Data Management for Sociological Research,365,3.72,3.21
+Statistics,R for Statistics III,305,3.83,3.83
+Statistics,Special Topics in Statistics,679,3.87,3.22
+Statistics,Mathematical Statistics,710,3.73,3.77
+Statistics,Introduction to Biostatistics,541,3.8,3.31
+Statistics,Financial Statistics,461,3.4,3.22
+Statistics,R for Statistics II,304,3.86,3.2
+Statistics,R for Statistics I,303,3.75,3.62
+Statistics,Introduction to Computational Statistics,471,3.5,3.98
+Statistics,Statistical Methods for Molecular Biology,877,3.94,3.53
+Statistics,Longitudinal Data Analysis,727,4.0,3.42
+Statistics,Practicum in Clinical Trial Data Analysis and Interpretation,546,,3.5
+Statistics,Introduction to Biostatistical Methods for Public Health,511,3.77,3.8
+Statistics,Introduction to Probability and Mathematical Statistics I,309,3.22,3.41
+Statistics,Statistical Methods for Medical Image Analysis,768,4.0,3.67
+Statistics,Introduction to Probability and Mathematical Statistics II,310,3.23,3.4
+Statistics,Introduction to Clinical Trials I,542,3.86,3.58
+Statistics,Special Topics in Statistics,692,3.94,3.56
+Statistics,Mathematical Statistics I,609,3.57,3.73
+Statistics,Non Parametric Statistics,809,3.98,3.52
+Statistics,Adv Fin Statistics,801,4.0,3.39
+Statistics,Mathematical Statistics,709,3.62,3.87
+Statistics,Statistical Methods for Epidemiology,642,3.93,3.66
+Statistics,Statistical Methods for Clinical Trials,641,3.59,3.7
+Statistics,Survival Analysis Theory and Methods,741,3.95,3.53
+Statistics,Research,990,,3.3
+Math,Topics in Applied Mathematics,801,3.99,3.32
+Math,Mathematics for Teaching: Numbers and Operations,130,3.08,3.29
+Math,Fundamental Mathematical Skills,95,2.69,3.87
+Math,Smr in Math Education,903,4.0,3.5
+Math,Methods of Applied Mathematics 1,703,3.86,3.65
+Math,Basic Concepts of Math,371,3.2,3.41
+Math,Mathematics for Teaching: Geometry and Measurement,131,3.14,3.78
+Math,Topics in Undergraduate Mathematics,491,3.4,3.51
+Math,Introduction to Probability and Mathematical Statistics I,309,3.22,3.61
+Math,Introduction to Probability and Mathematical Statistics II,310,3.23,3.63
+Math,Directed Study in Mathematics,298,,3.25
+Math,Methods of Computational Mathematics II,715,3.87,3.57
+Math,Methods of Applied Mathematics-2,704,3.8,3.58
+Math,Foundations of Mathematics,770,3.9,3.84
+Math,Trigonometry,113,2.78,3.51
+Math,Algebraic Reasoning for Teaching Math,135,3.14,3.74
+Math,Seminar-The Foundations of Mathematics,975,4.0,3.29
+Math,"Mathematics for Teaching: Conjecture, Generalization, and Proof",138,3.71,3.7
+Math,Modern Algebra,542,3.34,3.28
+Math,Preparatory Algebra,96,2.61,3.49
+Math,Computability Theory,773,3.62,3.63
+Math,Character Theory,841,4.0,3.76
+Math,Model Theory,776,3.96,3.48
+Math,Modern Algebra,541,2.95,3.07
+Math,Math Methods in Data Science,535,3.51,3.89

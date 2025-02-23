@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Chat Interface</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background: url('https://brand.wisc.edu/content/uploads/2023/10/UW-lg-crests-lt-gray-bg-Teams-Zoom.jpg') no-repeat center center fixed;
+            background-color: #f4f4f4;
+        }
+        .chat-container {
+            width: 60%;
+            background: white;
+            padding: 20px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+            border-radius: 10px;
+            display: flex;
+            flex-direction: column;
+        }
+        .chat-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+        .chat-messages {
+            display: flex;
+            flex-direction: column;
+            height: 400px;
+            overflow-y: auto;
+            padding: 10px;
+        }
+        .message {
+            max-width: 60%;
+            padding: 10px;
+            margin: 5px 0;
+            border-radius: 10px;
+        }
+        .user-message {
+            background-color: #fa0707;
+            color: white;
+            align-self: flex-end;
+        }
+        .ai-message {
+            background-color: #e8e8e8;
+            align-self: flex-start;
+        }
+        .chat-input {
+            display: flex;
+            margin-top: 10px;
+        }
+        .chat-input input {
+            flex-grow: 1;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            margin-right: 10px;
+        }
+        .chat-input button {
+            padding: 10px 20px;
+            background-color: #fa0707;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+        }
+        .spinner {
+            display: none;
+            width: 15px;
+            height: 15px;
+            border: 2px solid white;
+            border-top: 2px solid transparent;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin-left: 10px;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+    <button onclick="location.href='home'" style="position: absolute; top: 20px; left: 20px; padding: 10px; background-color: #fa0707; color: white; border: none; border-radius: 5px; cursor: pointer;">Home</button>
+    <div class="chat-container">
+        <div class="chat-header">
+            <h2>Badger Bot</h2>
+        </div>
+        <div class="chat-messages" id="chatMessages">
+            <div class="message ai-message" id="initialMessage">
+                <label for="majorSelect">Select your major:</label>
+                <select id="majorSelect" onchange="selectMajor()">
+                    <option value="">--Choose--</option>
+                    <option value="Computer Science">Computer Science</option>
+                    <option value="Data Science">Data Science</option>
+                    <option value="Statistics">Statistics</option>
+                    <option value="Math">Math</option>
+                </select>
+            </div>
+        </div>
+        <div class="chat-input" style="display: none;" id="chatInputContainer">
+            <input type="text" id="userInput" placeholder="Type your message here..." onkeypress="handleKeyPress(event)">
+            <button onclick="sendMessage()" id="sendButton">Send <div class="spinner" id="spinner"></div></button>
+        </div>
+    </div>
+
+    <script>
+
+        function selectMajor() {
+                let majorSelect = document.getElementById("majorSelect");
+                let selectedMajor = majorSelect.value;
+                if (selectedMajor) {
+                    fetch('/set_major', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/x-www-form-urlencoded',
+                        },
+                        body: new URLSearchParams({ major: selectedMajor })
+                    })
+                    .then(response => response.json())
+                    .then(data => {
+                        let chatMessages = document.getElementById("chatMessages");
+                        document.getElementById("initialMessage").remove();
+                        
+                        let majorMessage = document.createElement("div");
+                        majorMessage.classList.add("message", "user-message");
+                        majorMessage.textContent = "Selected Major: " + selectedMajor;
+                        chatMessages.appendChild(majorMessage);
+                        
+                        let responseMessage = document.createElement("div");
+                        responseMessage.classList.add("message", "ai-message");
+                        responseMessage.textContent = "Great choice! How can I assist you today?";
+                        chatMessages.appendChild(responseMessage);
+                        
+                        document.getElementById("chatInputContainer").style.display = "flex";
+                    });
+                }
+            }
+
+
+
+        function selectMajor() {
+           let majorSelect = document.getElementById("majorSelect");
+           let selectedMajor = majorSelect.value;
+           if (selectedMajor) {
+               fetch('/set_major', {
+                   method: 'POST',
+                   headers: {
+                       'Content-Type': 'application/x-www-form-urlencoded',
+                   },
+                   body: new URLSearchParams({ major: selectedMajor })
+               })
+               .then(response => response.json())
+               .then(data => {
+                   let chatMessages = document.getElementById("chatMessages");
+                   document.getElementById("initialMessage").remove();
+                  
+                   let majorMessage = document.createElement("div");
+                   majorMessage.classList.add("message", "user-message");
+                   majorMessage.textContent = "Selected Major: " + selectedMajor;
+                   chatMessages.appendChild(majorMessage);
+                  
+                   let responseMessage = document.createElement("div");
+                   responseMessage.classList.add("message", "ai-message");
+                   responseMessage.textContent = "Great choice! How can I assist you today?";
+                   chatMessages.appendChild(responseMessage);
+                  
+                   document.getElementById("chatInputContainer").style.display = "flex";
+               });
+           }
+       }
+
+
+       function sendMessage() {
+            let userInput = document.getElementById("userInput").value;
+            let chatMessages = document.getElementById("chatMessages");
+            let sendButton = document.getElementById("sendButton");
+            let spinner = document.getElementById("spinner");
+            
+            if (userInput.trim() === "") return;
+            
+            let userMessage = document.createElement("div");
+            userMessage.classList.add("message", "user-message");
+            userMessage.textContent = userInput;
+            chatMessages.appendChild(userMessage);
+            document.getElementById("userInput").value = "";
+            
+            spinner.style.display = "inline-block";
+            sendButton.disabled = true;
+            
+            setTimeout(() => {
+                fetch('/generate_response', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ message: userInput })
+                })
+                .then(response => response.json())
+                .then(data => {
+                    let aiMessage = document.createElement("div");
+                    aiMessage.classList.add("message", "ai-message");
+                    chatMessages.appendChild(aiMessage);
+                    
+                    let words = data.response.split(" ");
+                    let index = 0;
+                    
+                    function typeEffect() {
+                        if (index < words.length) {
+                            aiMessage.textContent += words[index] + " ";
+                            index++;
+                            setTimeout(typeEffect, Math.random() * 150 + 50);
+                        }
+                    }
+                    typeEffect();
+                })
+                .finally(() => {
+                    spinner.style.display = "none";
+                    sendButton.disabled = false;
+                });
+            }, 1000);
+        }
+        function handleKeyPress(event) {
+            if (event.key === "Enter") {
+                sendMessage();
+            }
+        }
+    </script>
+</body>
+</html>
